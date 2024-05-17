@@ -1,6 +1,6 @@
 # UDP File Transfer
 
-This Java program demonstrates file transfer using UDP sockets between two machines. The program consists of a server and a client. The client sends a file to the server, which receives and saves it.
+PS: Write a program using UDP Sockets to enable file transfer (Script, Text, Audio and Video one file each) between two machines.
 
 ## Files
 

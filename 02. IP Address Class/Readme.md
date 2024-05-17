@@ -2,8 +2,6 @@
 
 PS:  Write a program to find class and the type of the given IP address
 
-This project provides a simple Java program to determine the class and type (public or private) of a given IP address.
-
 ## Prerequisites
 
 - Java Development Kit (JDK) installed on your machine.

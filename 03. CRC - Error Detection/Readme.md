@@ -1,6 +1,6 @@
 # CRCErrorDetection
 
-This project provides a simple Java program to perform error detection for 7/8 bits ASCII codes using CRC (Cyclic Redundancy Check).
+PS: Write a program for error detection and correction for 7/8 bits ASCII codes using CRC.
 
 ## Prerequisites
 

@@ -1,6 +1,6 @@
 # SimpleHammingCode
 
-This project provides a simplified Java program to perform error detection and correction for 7/8 bits ASCII codes using Hamming codes.
+PS: Write a program for error detection and correction for 7/8 bits ASCII codes using HammingCodes.
 
 ## Prerequisites
 

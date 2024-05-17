@@ -1,6 +1,6 @@
 # Subnet Calculator
 
-This Java program is a simple subnet calculator that determines the class, subnet mask, network address, and last address of an IP address entered by the user.
+PS: Write a program to demonstrate subnetting and find the subnet masks.
 
 ## Overview
 
